@@ -1,2 +1,2 @@
-# selenium
-stepik - qa auto tests course https://stepik.org
+# qa test language
+qa test various lang
